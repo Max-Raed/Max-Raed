@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Max-Raed
-- 👀 I’m interested in Unity, Automotive Designs, Machine Learning, Computer-Sience Research, Java-Programming, Asynchronous and Distributed Systems, Python, C#, Augmented Reality, ...
-- 🌱 I’m currently learning how to survive the 20th Century ^^
+- 👀 I’m interested in HCI, Accessibility, Unity, Automotive Designs, Machine Learning, Computer-Sience Research, Asynchronous and Distributed Systems, Python, Augmented Reality, ...
+- 🌱 I’m currently learning how to survive the 21th Century ^^
 
 <!---
 Max-Raed/Max-Raed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
